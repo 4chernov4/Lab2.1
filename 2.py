@@ -21,5 +21,5 @@ column_index2 = 4
 
 swap(matrix, column_index1, column_index2)
 
-print("\nМатрица после перестановки столбцов:")
+print("Матрица после перестановки столбцов:")
 print_matrix(matrix)
